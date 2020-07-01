@@ -1,5 +1,5 @@
 # Getting_And_Cleaning_Data
-The script first adds the data.table library
+The script first adds the data.table library.
 After loading the libraries, the activity labels, column names, and feature are loaded.
 The next step adds the test data set and test activity labels, as well as the subject test set. 
 This step is repeated for all of the training data.
